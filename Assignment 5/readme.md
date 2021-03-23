@@ -6,7 +6,6 @@ Weather App
 
 [![Demo](demo.gif)]
 
-@http://projects.adsingh.net/?p=402
 
 
 
