@@ -6,7 +6,6 @@ Responsive Bootstrap 4 website.
 
 [![Demo](demo.png)]
 
-@http://projects.adsingh.net/?p=402
 
 
 
